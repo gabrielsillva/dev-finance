@@ -13,13 +13,6 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/62728048/118383661-59d9b200-b5d6-11eb-8989-48590b95976b.png">
 </p>
-
-<br>
-
-<p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
