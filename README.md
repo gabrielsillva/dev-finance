@@ -1,3 +1,4 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/gabrielsillva/dev-finance)
 <h1 align="center">
   <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
 </h1>
