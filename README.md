@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/gabrielsillva/dev-finance)
+
 <h1 align="center">
   <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
 </h1>
@@ -11,9 +11,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+![dev finance$ Maratona Discover (Copy)](https://user-images.githubusercontent.com/62728048/118383661-59d9b200-b5d6-11eb-8989-48590b95976b.png)
 </p>
 
 <br>
