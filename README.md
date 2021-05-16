@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-![dev finance$ Maratona Discover (Copy)](https://user-images.githubusercontent.com/62728048/118383661-59d9b200-b5d6-11eb-8989-48590b95976b.png)
+<img src="https://user-images.githubusercontent.com/62728048/118383661-59d9b200-b5d6-11eb-8989-48590b95976b.png">
 </p>
 
 <br>
