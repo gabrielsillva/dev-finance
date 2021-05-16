@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="dev-finance/mockup/dev.finance$MaratonaDiscover(copy).png">
+<img src="dev-finance/Mockup/dev.finance$ Maratona Discover (Copy).png">
 </p>
 
 <p align="center">
