@@ -1,5 +1,10 @@
 
 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/62728048/118383661-59d9b200-b5d6-11eb-8989-48590b95976b.png">
+</p>
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -7,9 +12,6 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/62728048/118383661-59d9b200-b5d6-11eb-8989-48590b95976b.png">
-</p>
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
